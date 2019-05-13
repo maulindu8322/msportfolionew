@@ -1,0 +1,31 @@
+*{
+	margin: 0;
+	padding: 0;
+	font-family: Centuty Gothic;
+}
+header{
+	background-image: url('14.jpg');
+	height: 100vh;
+	background-size: cover;
+	background-position: center;
+}
+.main{
+	max-width: 1200px;
+	margin: auto;
+}
+.title{
+	margin-top: 1%;
+	margin-left: 60%;
+	background-color: black;
+	color: white;
+	border: 5px white solid;
+	padding-left: 20px;
+}
+.link{
+	margin-top: 5%;
+	margin-left: 60%;
+	background-color: black;
+	color: white;
+	border: 5px white solid;
+	padding: 20px;
+}
